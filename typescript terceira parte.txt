@@ -1,0 +1,20 @@
+09 - Interfaces
+
+Cria interface pra uma classe.
+Também serve para tipar alguns dados
+
+10 - Classes
+
+Uma classe com mais possibilidades
+
+11 - Configurando o target do typescript
+
+No aruivo .json ES5 suporta em todos mais recomendado
+
+12 - Utilizando modificadores de acesso
+
+formas de trabalhar com as classes usando private public
+
+13 - Herança
+
+Usa extends para herdar caracteristicas de uma classe

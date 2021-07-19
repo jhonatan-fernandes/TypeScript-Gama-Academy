@@ -1,0 +1,29 @@
+01 Typescript
+
+Typescript é um supersete do Java Script, é usado pra converter uma tecnologia nova pra browisers antigos...
+
+Ela da mais recursos para Java Script
+
+02 Instalando e Usando Type Script
+
+Você pode instalar o TypeScript via npm, através do node instalado na máquina
+
+no terminal = npm install typescript
+
+03 - Tipos Typescript Basicos
+
+boolean = (true, false)
+number = pode ser qualquer numero (inteiro, real, etc)
+string = ('letras')
+array = []
+tuple = []
+Enum = pode ser utilizado para fazer um mapeamento de informações
+any = qualquer coisa
+void = é usado em funções pra dizer que não retorna nada
+Null e Undefined
+Object = tipo objeto não primitivo, quando não sabe exatamente o que é. Usa {}
+
+04 - Tipo Never
+
+é um tipo que nunca ocorre
+

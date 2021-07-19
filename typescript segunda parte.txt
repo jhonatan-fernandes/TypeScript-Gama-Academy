@@ -1,0 +1,18 @@
+05 - Múltiplos tipos com Union Types
+
+Pode dizer que uma função é de um tipo ou de outro tipo
+Usa o sinal = |
+
+06 - Type Alias
+
+Basicamente vc pode criar um tipo e utilizar ela
+
+07 - Valores nulos ou ocupacionais
+
+para declarar opcional usa = ?
+
+08 - Type Assertion
+
+Usa = as
+
+pra dizer de qual tipo que é
